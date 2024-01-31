@@ -25,4 +25,4 @@ public class sum_prod {
 	        return multiply - sum;
 	    }
 	}
-
+//leet code des :https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/
